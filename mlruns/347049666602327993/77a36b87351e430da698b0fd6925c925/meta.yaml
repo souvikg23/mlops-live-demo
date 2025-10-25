@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DSU%20Teaching%202025%20odd%20sem/MLOps/LIVE%20DEMO/mlruns/347049666602327993/77a36b87351e430da698b0fd6925c925/artifacts
+end_time: 1761364845852
+entry_point_name: ''
+experiment_id: '347049666602327993'
+lifecycle_stage: active
+run_id: 77a36b87351e430da698b0fd6925c925
+run_name: bald-boar-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761364833145
+status: 3
+tags: []
+user_id: souvik

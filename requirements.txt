@@ -1,0 +1,8 @@
+mlflow
+streamlit
+pandas
+joblib
+scikit-learn
+pathlib
+
+
