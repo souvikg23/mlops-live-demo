@@ -8,8 +8,8 @@ Built into scikit learn Library in Python
 tech stack :
 Development : VS code
 Language : Python 3.17
-Mlops : ML flow
-Deployement : Streamlit'
+Mlops  Library : ML flow
+Deployement : Streamlit
 Version control : Github
 Automation : Github Actions.
 
