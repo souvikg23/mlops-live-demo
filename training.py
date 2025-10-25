@@ -18,14 +18,7 @@ y = df["MedHouseVal"]
 # --- Split dataset ---
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# # --- Ensure mlruns directory exists ---
-# mlruns_dir = os.path.join(os.getcwd(), "mlruns")
-# os.makedirs(mlruns_dir, exist_ok=True)
 
-# # --- Cross-platform tracking URI (Windows-safe + Linux-safe) ---
-# mlruns_path = pathlib.Path(mlruns_dir).as_uri()
-# # --- Cross-platform MLflow tracking URI (relative path) ---
-# mlflow.set_tracking_uri("file:./mlruns")
 
 #change2
 # --- Set MLflow experiment ---
