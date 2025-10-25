@@ -56,4 +56,4 @@ print("Model saved to models/linear_model.pkl")
 print(f"Model trained successfully. MSE: {mse:.4f}")
 #change2
 print("Run `mlflow ui` locally to visualize experiments at http://localhost:5000")
-#change
+#change#
