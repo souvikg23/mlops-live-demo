@@ -13,4 +13,6 @@ Deployement : Streamlit
 Version control : Github
 Automation : Github Actions.
 
+USE THE WORKFLOW TXT AS A GUIDE FOR HOW TO CONFIGURE THE WORKFLOW IN GITHUB ACTIONS
+
 
